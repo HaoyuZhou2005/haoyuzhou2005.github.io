@@ -64,6 +64,13 @@
     margin-top: 1em;
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+    color: $darker-gray;
+    font-weight: 700;
+  }
+
+  h2 {
+    color: $darker-gray;
+    font-weight: 700;
   }
 
   p, li, dl {
@@ -121,7 +128,7 @@
 .page__hero {
   position: relative;
   margin-bottom: 2em;
-  @include clearfix;
+  @include clearfix();
   animation: intro 0.3s both;
   animation-delay: 0.25s;
 
