@@ -14,6 +14,8 @@ I am an undergraduate student in the **Yingcai Honors College at the University 
 
 My current research centers on **multimodal machine learning for healthcare and neuroscience**. I have worked on EEG/fMRI representation learning, brain-disorder diagnosis, lifespan normative modeling, and multimodal assessment of parent-child interactions in autism interventions. My research experience spans graph transformers, multimodal learning, neuroimaging analysis, audio processing, and machine learning for physiological signals.
 
+<a href="/files/Haoyu_Zhou_CV.pdf" class="btn btn--primary" download>Download CV (PDF)</a>
+
 # News
 
 - **2026** — *BrainSAG: Subnetwork-Adaptive Graph Transformer for EEG-fMRI Cross-Modal Brain Disorder Diagnosis* is under review at **ICDM 2026**.
@@ -98,5 +100,6 @@ Supervisor: **Xi Jiang**, Research Professor
 
 # Skills
 
+- **Programming and machine learning:** Python, PyTorch, MATLAB, C/C++.
 - **Physiological signal processing and machine learning:** EEG, fMRI, EMG, audio, HRV, and related multimodal data.
-- **Embedded development:** simple electronic piano, temperature and humidity display, and smart alarm clock.
+- **Embedded development:** experience developing a simple electronic piano, temperature and humidity display, and smart alarm clock.
