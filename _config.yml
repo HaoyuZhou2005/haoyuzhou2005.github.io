@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haoyu Zhou"
-description              : "Haoyu Zhou | Undergraduate researcher at UESTC working on multimodal machine learning, neuroimaging, and AI for healthcare."
+description              : "Haoyu Zhou | Undergraduate researcher at UESTC working on multimodal machine learning for healthcare and neuroscience."
 repository               : "HaoyuZhou2005/haoyuzhou2005.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :
 author:
   name             : "Haoyu Zhou"
   avatar           : "images/photo(1).png"
-  bio              : "Undergraduate Researcher at UESTC"
+  bio              : "Multimodal Machine Learning for Healthcare and Neuroscience"
   location         : "Chengdu, China"
   employer         : "University of Electronic Science and Technology of China"
   pubmed           :
