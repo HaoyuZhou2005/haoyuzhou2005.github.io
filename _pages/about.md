@@ -21,17 +21,6 @@ My current research centers on **multimodal machine learning for healthcare and 
 
 # Research Experience
 
-## The Hong Kong University of Science and Technology — Ubiquitous Lab
-**Research Assistant** · Hong Kong, China · *Dec. 2025 – Apr. 2026*  
-Supervisor: **Qijia Shao**, Tenure-Track Assistant Professor
-
-**Research topic:** Building Multimodal Representations for Evaluating Parent-Mediated Intervention Outcomes in Children with Autism
-
-- Conducted data preprocessing and built ASR baselines based on **Qwen-Audio** and **Whisper**.
-- Developed multimodal CIB score-prediction baselines using Transformer-based models and Random Forests.
-- Developed a **ResNet-based nonverbal vocalization detector** for imbalanced small-sample datasets, targeting behaviors such as laughter and screaming.
-- Achieved a **Macro-F1 of 0.95** using data augmentation methods including noise injection.
-
 ## University of Electronic Science and Technology of China — ShenSi Lab
 **Project Lead** · Shenzhen, China · *Dec. 2024 – Oct. 2025*  
 Supervisor: **Qiuquan Guo**, Associate Research Fellow
@@ -56,6 +45,17 @@ Supervisor: **Xi Jiang**, Research Professor
 - Evaluated the models on five public fMRI datasets covering attention disorders, depression, schizophrenia, autism, and related conditions.
 - Achieved diagnostic AUCs of **0.64–0.75** and approximately **2–4% AUC improvement** over the existing SOTA on ABIDE and schizophrenia-related datasets.
 - Received **Second Prize at the Yingcai Academic Symposium** for this work.
+
+## The Hong Kong University of Science and Technology — Ubiquitous Lab
+**Research Assistant** · Hong Kong, China · *Dec. 2025 – Apr. 2026*  
+Supervisor: **Qijia Shao**, Tenure-Track Assistant Professor
+
+**Research topic:** Building Multimodal Representations for Evaluating Parent-Mediated Intervention Outcomes in Children with Autism
+
+- Conducted data preprocessing and built ASR baselines based on **Qwen-Audio** and **Whisper**.
+- Developed multimodal CIB score-prediction baselines using Transformer-based models and Random Forests.
+- Developed a **ResNet-based nonverbal vocalization detector** for imbalanced small-sample datasets, targeting behaviors such as laughter and screaming.
+- Achieved a **Macro-F1 of 0.95** using data augmentation methods including noise injection.
 
 # Publications
 
