@@ -10,9 +10,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student in the **Yingcai Honors College at the University of Electronic Science and Technology of China (UESTC)**, pursuing a B.Eng. in Electronic Information Engineering.
+# About Me
 
-My current research centers on **multimodal machine learning for healthcare and neuroscience**. I have worked on EEG/fMRI representation learning, brain-disorder diagnosis, lifespan normative modeling, and multimodal assessment of parent-child interactions in autism interventions. My research experience spans graph transformers, multimodal learning, neuroimaging analysis, audio processing, and machine learning for physiological signals.
+I was born in 2005 and am from Tongling, Anhui Province, China. I am currently an undergraduate student at [Yingcai Honors College, University of Electronic Science and Technology of China (UESTC)](https://faculty-en.uestc.edu.cn/xylb.jsp?id=2042&lang=en&st=0&urltype=tsites.CollegeTeacherList&wbtreeid=1031), majoring in Electronic Information Engineering. In Fall 2027, I will join the [Multimedia Lab](https://mmlab.siat.ac.cn/) at the Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences (SIAT), to pursue a master's degree through the University of Chinese Academy of Sciences (UCAS).
+
+My hobbies are photography—especially landscape and travel photography with a DSLR—and video games. You can find me on [Steam](https://steamcommunity.com/profiles/76561199757277727/) and [PlayStation](https://profile.playstation.com/TimChow2005). Feel free to share your favorite photos with me or add me as a gaming friend. I'd be happy to have fun together.
 
 # News
 
