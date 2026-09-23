@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 
-I was born in 2005 and am from Tongling, Anhui Province, China. I am currently an undergraduate student at [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/en/), [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), majoring in Electronic Information Engineering. In Fall 2027, I will join the [Multimedia Lab](https://mmlab.siat.ac.cn/) at the [Shenzhen Institutes of Advanced Technology](https://english.siat.ac.cn/), Chinese Academy of Sciences (SIAT), to pursue a master's degree through the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/).
+I was born in 2005 and am from Tongling, Anhui Province, China. I am currently an undergraduate student at [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/en/), [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), majoring in Electronic Information Engineering. In Fall 2027, I will join the [Multimedia Lab](https://mmlab.siat.ac.cn/) at the [Shenzhen Institutes of Advanced Technology](https://english.siat.ac.cn/) (SIAT), to pursue a master's degree through the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/).
 
 My hobbies are photography—especially landscape and travel photography with a DSLR—and video games. You can find me on [Steam](https://steamcommunity.com/profiles/76561199757277727/) and [PlayStation](https://profile.playstation.com/TimChow2005). Feel free to share your favorite photos with me or add me as a gaming friend. I'd be happy to have fun together.
 
