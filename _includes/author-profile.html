@@ -17,10 +17,16 @@
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
       {% if author.undergraduate %}
-        <li><span style="font-size: 1.35em; line-height: 0; vertical-align: -0.08em; margin-right: 0.28em;" aria-hidden="true">•</span>{{ author.undergraduate_role }}<br><span style="display:inline-block; margin-left:1.55em;">{{ author.undergraduate }}</span></li>
+        <li style="display:flex; align-items:flex-start;">
+          <span style="font-size:1.35em; line-height:1; width:1.15em; flex:0 0 1.15em;" aria-hidden="true">•</span>
+          <span style="display:block;">{{ author.undergraduate_role }}<br>{{ author.undergraduate }}</span>
+        </li>
       {% endif %}
       {% if author.master %}
-        <li><span style="font-size: 1.35em; line-height: 0; vertical-align: -0.08em; margin-right: 0.28em;" aria-hidden="true">•</span>{{ author.master_role }}<br><span style="display:inline-block; margin-left:1.55em;">{{ author.master }}</span></li>
+        <li style="display:flex; align-items:flex-start;">
+          <span style="font-size:1.35em; line-height:1; width:1.15em; flex:0 0 1.15em;" aria-hidden="true">•</span>
+          <span style="display:block;">{{ author.master_role }}<br>{{ author.master }}</span>
+        </li>
       {% endif %}
       {% if author.location %}
         <li><span style="font-size: 1.35em; line-height: 0; vertical-align: -0.08em; margin-right: 0.28em;" aria-hidden="true">•</span>{{ author.location }}</li>
