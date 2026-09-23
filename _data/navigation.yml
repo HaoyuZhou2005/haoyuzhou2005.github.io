@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#news"
 
-  - title: "Research"
-    url: "/#research-experience"
+  # - title: "Research"
+  #   url: "/#research-experience"
 
   - title: "Publications"
     url: "/#publications"
@@ -18,11 +18,11 @@ main:
   - title: "Education"
     url: "/#education"
 
-  - title: "Competitions"
-    url: "/#competition-experience"
+  # - title: "Competitions"
+  #   url: "/#competition-experience"
 
-  - title: "Exchange"
-    url: "/#exchange-and-learning-experience"
+  # - title: "Exchange"
+  #   url: "/#exchange-and-learning-experience"
 
-  - title: "Skills"
-    url: "/#skills"
+  # - title: "Skills"
+  #   url: "/#skills"
