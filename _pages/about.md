@@ -21,6 +21,7 @@ My hobbies include LEGO, Gundam / Gunpla, photography, and video games. You can 
 - **2026** — *BrainSAG: Subnetwork-Adaptive Graph Transformer for EEG-fMRI Cross-Modal Brain Disorder Diagnosis* is under review at **ICDM 2026**.
 - **2026** — *In-RECAP: Supporting Assessment of Parent–Child Interaction in Parent-Mediated Autism Interventions* is under review at **PACM IMWUT / UbiComp 2026**.
 
+{% comment %}
 # Research Experience
 
 ## University of Electronic Science and Technology of China — ShenSi Lab
@@ -58,6 +59,7 @@ Supervisor: **Qijia Shao**, Tenure-Track Assistant Professor
 - Developed multimodal CIB score-prediction baselines using Transformer-based models and Random Forests.
 - Developed a **ResNet-based nonverbal vocalization detector** for imbalanced small-sample datasets, targeting behaviors such as laughter and screaming.
 - Achieved a **Macro-F1 of 0.95** using data augmentation methods including noise injection.
+{% endcomment %}
 
 # Publications
 
@@ -82,6 +84,7 @@ Supervisor: **Qijia Shao**, Tenure-Track Assistant Professor
 - **IELTS:** 6.5
 - **Selected coursework:** Linear Algebra and Analytic Geometry (95), Probability and Statistics (93), Digital Signal Processing (90), C Programming (97), Basic Academic Training (100).
 
+{% comment %}
 # Competition Experience
 
 ## 15th “Zhengda Cup” National College Students' Market Research and Analysis Competition
@@ -92,14 +95,20 @@ Supervisor: **Qijia Shao**, Tenure-Track Assistant Professor
 
 ## National English Competition for College Students
 **National Third Prize**
+{% endcomment %}
 
+{% comment %}
 # Exchange and Learning Experience
 
 - **X-Camp, Shenzhen X-Institute, Tsinghua Shenzhen International Graduate School** · *Jul. 2024 – Aug. 2024*
 - **Entrepreneurship Practice Program, ISCTE – University Institute of Lisbon, Portugal** · *Jul. 2025*
+{% endcomment %}
 
+{% comment %}
 # Skills
 
 - **Programming and machine learning:** Python, PyTorch, MATLAB, C/C++.
 - **Physiological signal processing and machine learning:** EEG, fMRI, EMG, audio, HRV, and related multimodal data.
 - **Embedded development:** experience developing a simple electronic piano, temperature and humidity display, and smart alarm clock.
+{% endcomment %}
+
