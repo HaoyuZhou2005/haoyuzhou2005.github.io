@@ -70,19 +70,12 @@ Supervisor: **Qijia Shao**, Tenure-Track Assistant Professor
 # Honors and Awards
 
 - **National First Prize**, 15th “Zhengda Cup” National College Students' Market Research and Analysis Competition.
-- **Second Prize**, Yingcai Academic Symposium.
 - **National Third Prize**, National English Competition for College Students.
-- **Special Scholarship**, UESTC — Top 20%.
 
 # Education
 
 ## University of Electronic Science and Technology of China — Yingcai Honors College
 **B.Eng. in Electronic Information Engineering** · Chengdu, China · *Sep. 2023 – Present*
-
-- **GPA:** 3.76/4.00
-- **Weighted Average:** 86.78/100
-- **IELTS:** 6.5
-- **Selected coursework:** Linear Algebra and Analytic Geometry (95), Probability and Statistics (93), Digital Signal Processing (90), C Programming (97), Basic Academic Training (100).
 
 {% comment %}
 # Competition Experience
