@@ -24,8 +24,10 @@ author:
   name             : "Haoyu Zhou"
   avatar           : "images/photo(1).png"
   bio              :
-  undergraduate    : "Undergraduate at Yingcai Honors College, University of Electronic Science and Technology of China"
-  master           : "Master's student at Shenzhen Institutes of Advanced Technology, University of Chinese Academy of Sciences"
+  undergraduate_role : "Undergraduate at"
+  undergraduate    : "Yingcai Honors College, University of Electronic Science and Technology of China"
+  master_role      : "M.S. Student at"
+  master           : "Shenzhen Institutes of Advanced Technology, University of Chinese Academy of Sciences"
   location         : "Shenzhen, China"
   employer         :
   pubmed           :
