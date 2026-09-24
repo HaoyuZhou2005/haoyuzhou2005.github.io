@@ -84,17 +84,17 @@ Supervisor: **Qijia Shao**, Tenure-Track Assistant Professor
 
 # Education
 
-## [Tongling Experimental Primary School](https://www.tltg.gov.cn/openness/OpennessContent/show/962207.html)
-**Primary School Student** · Tongling, China · *Sep. 2011 – Jun. 2017*
-
-## [Tongling No. 15 Middle School](https://www.tltg.gov.cn/openness/OpennessContent/show/855878.html) or [Wikipedia](https://zh.wikipedia.org/wiki/%E9%93%9C%E9%99%B5%E5%B8%82%E7%AC%AC%E5%8D%81%E4%BA%94%E4%B8%AD%E5%AD%A6)
-**Middle School Student** · Tongling, China · *Sep. 2017 – Jul. 2020*
+## [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) — [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/en/)
+**B.Eng. in Electronic Information Engineering** · Chengdu, China · *Sep. 2023 – Present*
 
 ## [Tongling No. 1 High School](https://www.tlyz.net/) or [Wikipedia](https://zh.wikipedia.org/wiki/%E9%93%9C%E9%99%B5%E5%B8%82%E7%AC%AC%E4%B8%80%E4%B8%AD%E5%AD%A6)
 **High School Student** · Tongling, China · *Sep. 2020 – Jun. 2023*
 
-## [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) — [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/en/)
-**B.Eng. in Electronic Information Engineering** · Chengdu, China · *Sep. 2023 – Present*
+## [Tongling No. 15 Middle School](https://www.tltg.gov.cn/openness/OpennessContent/show/855878.html) or [Wikipedia](https://zh.wikipedia.org/wiki/%E9%93%9C%E9%99%B5%E5%B8%82%E7%AC%AC%E5%8D%81%E4%BA%94%E4%B8%AD%E5%AD%A6)
+**Middle School Student** · Tongling, China · *Sep. 2017 – Jul. 2020*
+
+## [Tongling Experimental Primary School](https://www.tltg.gov.cn/openness/OpennessContent/show/962207.html)
+**Primary School Student** · Tongling, China · *Sep. 2011 – Jun. 2017*
 
 {% comment %}
 # Competition Experience
