@@ -20,7 +20,7 @@ My hobbies include LEGO, Gundam / Gunpla, photography, and video games. You can 
 
 # Selected Experiences
 
-- **Summer 2024** — Participated in a summer program at [Shenzhen X-Institute](https://www.x-institute.edu.cn/).
+- **Summer 2024** — Participated in X-Camp at [Shenzhen X-Institute](https://www.x-institute.edu.cn/), where I learned about low-altitude aviation, UAVs, and related fields, as well as fundamental research skills such as literature review and proposal writing.
 - **Fall 2024 – Fall 2025** — Conducted research training at the [Shenzhen Institute for Advanced Study, UESTC](https://sias.uestc.edu.cn/yjygk/gywm.htm) in [ShenSi Lab](http://www.ultraxlab.com/en/), supervised by [Qiuquan Guo](http://www.ultraxlab.com/en/?merber/202201064825.html), focusing on deep-learning-based diagnosis of neurological disorders.
 - **Summer 2025** — Joined an exchange program at [Iscte – University Institute of Lisbon](https://www.iscte-iul.pt/) in Portugal, studying technology entrepreneurship.
 - **Fall 2025 – Summer 2026** — Worked as a research assistant at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in the [Ubiquitous X Lab](https://qijiashao.github.io/team/), supervised by [Qijia Shao](https://qijiashao.github.io/), focusing on large-language-model-assisted interventions for children with autism.
@@ -28,7 +28,6 @@ My hobbies include LEGO, Gundam / Gunpla, photography, and video games. You can 
 
 # News
 
-- **2026** — *BrainSAG: Subnetwork-Adaptive Graph Transformer for EEG-fMRI Cross-Modal Brain Disorder Diagnosis* is under review at **ICDM 2026**.
 - **2026** — *In-RECAP: Supporting Assessment of Parent–Child Interaction in Parent-Mediated Autism Interventions* is under review at **PACM IMWUT / UbiComp 2026**.
 
 {% comment %}
@@ -73,9 +72,9 @@ Supervisor: **Qijia Shao**, Tenure-Track Assistant Professor
 
 # Publications
 
-1. **H. Zhou**, Y. He, et al. “**BrainSAG: Subnetwork-Adaptive Graph Transformer for EEG-fMRI Cross-Modal Brain Disorder Diagnosis.**” Under review at *ICDM 2026*.
+1. Y. Zhang, C. Xu, **H. Zhou**, et al. “**In-RECAP: Supporting Assessment of Parent–Child Interaction in Parent-Mediated Autism Interventions.**” Recommended for acceptance at *PACM IMWUT / UbiComp 2026*.
 
-2. Y. Zhang, C. Xu, **H. Zhou**, et al. “**In-RECAP: Supporting Assessment of Parent–Child Interaction in Parent-Mediated Autism Interventions.**” Under review at *PACM IMWUT / UbiComp 2026*.
+2. **H. Zhou**, Y. He, et al. “**BrainSAG: Subnetwork-Adaptive Graph Transformer for EEG-fMRI Cross-Modal Brain Disorder Diagnosis.**” Under review at *ICASSP 2027*.
 
 # Honors and Awards
 
