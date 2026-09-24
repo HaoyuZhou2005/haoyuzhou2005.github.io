@@ -85,7 +85,10 @@ Supervisor: **Qijia Shao**, Tenure-Track Assistant Professor
 # Education
 
 ## [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) — [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/en/)
-**B.Eng. in Electronic Information Engineering** · Chengdu, China · *Sep. 2023 – Present*
+**B.Eng. in Electronic Information Engineering** · Chengdu, China · *Mar. 2024 – Present*
+
+## [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) — [School of Automation Engineering](https://www.auto.uestc.edu.cn/en/)
+**B.Eng. in Automation** · Chengdu, China · *Sep. 2023 – Feb. 2024*
 
 ## [Tongling No. 1 High School](https://www.tlyz.net/) or [Wikipedia](https://zh.wikipedia.org/wiki/%E9%93%9C%E9%99%B5%E5%B8%82%E7%AC%AC%E4%B8%80%E4%B8%AD%E5%AD%A6)
 **High School Student** · Tongling, China · *Sep. 2020 – Jun. 2023*
