@@ -28,7 +28,7 @@ My hobbies include LEGO, Gundam / Gunpla, photography, and video games. You can 
 
 # News
 
-- **2026** — *In-RECAP: Supporting Assessment of Parent–Child Interaction in Parent-Mediated Autism Interventions* is under review at **PACM IMWUT / UbiComp 2026**.
+- **2026** — *In-RECAP: Supporting Assessment of Parent–Child Interaction in Parent-Mediated Autism Interventions* is recommended for acceptance at **PACM IMWUT / UbiComp 2026**.
 
 {% comment %}
 # Research Experience
