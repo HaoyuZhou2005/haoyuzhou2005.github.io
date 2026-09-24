@@ -16,6 +16,16 @@ I was born in 2005 and am from Tongling, Anhui Province, China. I am currently a
 
 My hobbies include LEGO, Gundam / Gunpla, photography, and video games. You can find me on [Steam](https://steamcommunity.com/profiles/76561199757277727/) and [PlayStation](https://profile.playstation.com/TimChow2005). Feel free to share your favorite photos with me, add me as a gaming friend, or chat with me about LEGO and Gundam. Let's have fun together.
 
+<span class='anchor' id='selected-experiences'></span>
+
+# Selected Experiences
+
+- **Summer 2024** — Participated in a summer program at [Shenzhen X-Institute](https://www.x-institute.edu.cn/).
+- **Fall 2024 – Fall 2025** — Conducted research training at the [Shenzhen Institute for Advanced Study, UESTC](https://sias.uestc.edu.cn/yjygk/gywm.htm) in [ShenSi Lab](http://www.ultraxlab.com/en/), supervised by [Qiuquan Guo](http://www.ultraxlab.com/en/?merber/202201064825.html), focusing on deep-learning-based diagnosis of neurological disorders.
+- **Summer 2025** — Joined an exchange program at [Iscte – University Institute of Lisbon](https://www.iscte-iul.pt/) in Portugal, studying technology entrepreneurship.
+- **Fall 2025 – Summer 2026** — Worked as a research assistant at [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in the [Ubiquitous X Lab](https://qijiashao.github.io/team/), supervised by [Qijia Shao](https://qijiashao.github.io/), focusing on large-language-model-assisted interventions for children with autism.
+- **Summer 2026 – Present** — Conducting research training at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en) in the [NAIS Lab](https://mypage.cuhk.edu.cn/academics/wangfangxin/index.html), supervised by [Fangxin Wang](https://sse.cuhk.edu.cn/en/faculty/wangfangxin), focusing on inference acceleration for autoregressive world models.
+
 # News
 
 - **2026** — *BrainSAG: Subnetwork-Adaptive Graph Transformer for EEG-fMRI Cross-Modal Brain Disorder Diagnosis* is under review at **ICDM 2026**.
