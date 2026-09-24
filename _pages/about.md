@@ -87,6 +87,15 @@ Supervisor: **Qijia Shao**, Tenure-Track Assistant Professor
 ## University of Electronic Science and Technology of China — Yingcai Honors College
 **B.Eng. in Electronic Information Engineering** · Chengdu, China · *Sep. 2023 – Present*
 
+## [Tongling No. 1 High School](https://www.tlyz.net/)
+**High School Student** · Tongling, China · *Sep. 2020 – Jun. 2023*
+
+## [Tongling No. 15 Middle School](https://www.tltg.gov.cn/openness/OpennessContent/show/855878.html)
+**Middle School Student** · Tongling, China · *Sep. 2017 – Jul. 2020*
+
+## [Tongling Experimental Primary School](https://www.tltg.gov.cn/openness/OpennessContent/show/962207.html)
+**Primary School Student** · Tongling, China · *Sep. 2011 – Jun. 2017*
+
 {% comment %}
 # Competition Experience
 
