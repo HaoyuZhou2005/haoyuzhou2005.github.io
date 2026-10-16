@@ -11,7 +11,8 @@ description              : ""
 repository               : "HaoyuZhou2005/haoyuzhou2005.github.io"
 google_scholar_stats_use_cdn : true
 
-# google analytics
+# Google Analytics 4: enter the web data stream Measurement ID (G-XXXXXXXXXX) to enable tracking.
+# Leave this value empty until the GA4 property and web data stream have been created.
 google_analytics_id      :
 
 # SEO Related
